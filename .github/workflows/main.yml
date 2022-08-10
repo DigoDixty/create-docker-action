@@ -6,4 +6,4 @@ jobs:
     name: Project create docker
     steps:
       - name: Create container
-        uses: DigoDixty/hello-world-docker-action@main
+        uses: DigoDixty/create-docker-action@main
