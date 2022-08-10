@@ -1,0 +1,5 @@
+/.venv
+/.dbt
+/target
+/dbt_modules
+
