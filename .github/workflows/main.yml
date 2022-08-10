@@ -3,7 +3,7 @@ on: [push]
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
-    name: Projeto create docker
+    name: Project create docker
     steps:
       - name: Create container
-        uses: actions/hello-world-docker-action@v1
+        uses: DigoDixty/hello-world-docker-action@v1
